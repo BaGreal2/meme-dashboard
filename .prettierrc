@@ -7,5 +7,5 @@
   "bracketSpacing": true,
   "importOrder": ["^react", "<THIRD_PARTY_MODULES>", "^@/ui/(.*)$", "^@/components/(.*)$", "^@/lib/(.*)$", "^[./]"],
   "importOrderSeparation": true,
-  "plugins": ["@trivago/prettier-plugin-sort-imports", "prettier-plugin-organize-imports"]
+  "plugins": ["@trivago/prettier-plugin-sort-imports", "prettier-plugin-tailwindcss", "prettier-plugin-organize-imports"]
 }
